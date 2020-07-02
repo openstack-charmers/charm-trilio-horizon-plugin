@@ -1,3 +1,5 @@
+> **WARNING**: this repository has moved to https://opendev.org/openstack/charm-trilio-horizon-plugin
+
 # Overview
 
 TrilioVault Horizon Plugin is a plugin of TrilioVault which is installed
